@@ -1,0 +1,4 @@
+# PyTorch Model Checkpoint
+This file contains the model's state and configuration.
+
+# Note: The actual checkpoint data should be saved in binary format. This representation is a placeholder to illustrate the file creation.
